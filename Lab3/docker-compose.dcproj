@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
-    <ProjectGuid>7809645e-a10c-4736-be06-d695eee81df6</ProjectGuid>
+    <ProjectGuid>2fd32a2b-3788-4c26-a66a-61ea86a7a60a</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}</DockerServiceUrl>
     <DockerServiceName>lab3</DockerServiceName>
